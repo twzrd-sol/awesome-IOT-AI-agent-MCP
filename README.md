@@ -238,6 +238,24 @@ result = crew.kickoff()
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+**🔐 TWZRD Agent Intel**
+[intel.twzrd.xyz](https://intel.twzrd.xyz)
+
+*Agent trust scoring for IoT + AI agents*
+- Verify agent wallet identity before x402 micropayment data access
+- `score_agent(wallet)` — free trust score
+- `preflight_check(wallet)` — deployment readiness
+- `get_trust_receipt(wallet)` — paid x402 proof
+- Zero-install: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
 </table>
 
 ### 🌐 MCP-IoT Integration Patterns
